@@ -12,7 +12,7 @@ public class Exer05 {
 		conta.limiteEspecial = 500;
 		conta.saldo = -10;
 		
-		System.out.println("Saldo da conta: " + conta.numero + "=" + conta.saldo);
+		System.out.println("Saldo da conta: " + conta.numero + "= " + conta.saldo);
 		
 	}
 
