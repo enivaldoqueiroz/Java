@@ -7,6 +7,40 @@ public class Algoritmo19 {
 	public static void main(String[] args) {
 		// Algoritmo19
 		
+		/*
+		import java.lang.Math (Funções Matemáticas)
+			Programação de Computadores I
+			import java.lang.Math (Funções Matemáticas)
+			
+		Funções : Math.sqrt(a) - retorna a raiz quadrada de a.
+			Math.ceil(a) - retorna o valor double maior e mais próximo de a ("arredonda pra cima").
+			Math.floor(a) - retorna o valor double menor e mais próximo de a ("arredonda pra baixo").
+			Math.rint(a) - retorna o valor mais próximo de a (arredondamento normal).
+			Math.atan2(x, y) - converte as coordenadas retangulares (x, y) em coordenadas polares (r, θ).
+			Math.pow(x, y) - retorna o valor x elevado à potência y.
+			Math.round(a) - retorna o valor mais próximo de a.
+			Math.random() - retorna um valor "aleatório" entre 0 e 1**.
+			Math.abs(a) - retorna o valor absoluto de a ( |a| )***.
+			Math.max(a, b) - retorna o maior valor entre a e b.
+			Math.min(a, b) - retorna o menor valor entre a e b.
+			
+		Funções : Math.sqrt(a) - retorna a raiz quadrada de a.
+			Math.ceil(a) - retorna o valor double maior e mais próximo de a ("arredonda pra cima").
+			Math.floor(a) - retorna o valor double menor e mais próximo de a ("arredonda pra baixo").
+			Math.rint(a) - retorna o valor mais próximo de a (arredondamento normal).
+			Math.atan2(x, y) - converte as coordenadas retangulares (x, y) em coordenadas polares (r, θ).
+			Math.pow(x, y) - retorna o valor x elevado à potência y.
+			Math.round(a) - retorna o valor mais próximo de a.
+			Math.random() - retorna um valor "aleatório" entre 0 e 1**.
+			Math.abs(a) - retorna o valor absoluto de a ( |a| )***.
+			Math.max(a, b) - retorna o maior valor entre a e b.
+			Math.min(a, b) - retorna o menor valor entre a e b.
+			
+		Constantes: Math.PI - equivale à constante pi (π)
+			Math.E - equivale à constante e, a base dos logaritmos naturais.
+
+		*/
+		
 		//Variaveis
 		int x = 64;
 		String padrao = "###,####.###";
