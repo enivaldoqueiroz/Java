@@ -1,4 +1,4 @@
-package algoritmos.resolvildos500;
+package algoritmos.resolvidos500;
 
 import java.util.Scanner;
 
@@ -22,9 +22,9 @@ public class Algoritmo20 {
 		d1 = c.concat(c1);
 		System.out.println("\nConcatenação: " + d1);
 		System.out.println("\nPrimeiro caracter da palavra " + c + ": " + c.substring(0,1));
-		System.out.println("\nUltimo caracter da palavra " + c + ": " +c.substring(c.length() - 1));
+		System.out.println("\nUltimo caracter da palavra " + c + ": " + c.substring(c.length() - 1));
 		System.out.println("\nOs três primeiros caracteres da palavra " + c + ": " + c.substring(0,3));
-		System.out.println("\nOs três ultimos caracteres da palavra " + c + ": " +c.substring(c.length() - 3));
+		System.out.println("\nOs três ultimos caracteres da palavra " + c + ": " + c.substring(c.length() - 3));
 
 	}
 

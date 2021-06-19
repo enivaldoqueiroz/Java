@@ -1,4 +1,4 @@
-package algoritmos.resolvildos500;
+package algoritmos.resolvidos500;
 
 public class Algortimo18 {
 
